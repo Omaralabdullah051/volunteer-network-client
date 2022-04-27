@@ -1,0 +1,16 @@
+.event-container {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 20px;
+    padding: 30px;
+}
+
+.event-container img {
+    width: 100%;
+}
+
+.event-container h2 {
+    background-color: bisque;
+    padding: 10px;
+    border-radius: 5px;
+}

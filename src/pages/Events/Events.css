@@ -1,0 +1,19 @@
+.form-container {
+    width: 50%;
+    margin: 20px auto;
+}
+
+.form-container input {
+    width: 500px;
+    height: 30px;
+    margin-bottom: 20px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.error {
+    color: red;
+    text-align: center;
+}
